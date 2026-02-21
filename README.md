@@ -32,9 +32,9 @@ Avaliar comparativamente o desempenho das quatro lojas utilizando métricas fina
 
 ## 📊 Análises Realizadas
 
-- Faturamento total por loja (faturamento_por_loja) 
+- Faturamento total por loja 
 - Vendas por categoria  
-- Produtos mais e menos vendidos (produtos_mais_vendidos) (produtos_menos_vendidos)  
+- Produtos mais e menos vendidos 
 - Média de avaliação por loja  
 - Frete médio por loja  
 
@@ -42,7 +42,4 @@ Avaliar comparativamente o desempenho das quatro lojas utilizando métricas fina
 
 A análise evidenciou diferenças relevantes entre as lojas em termos de faturamento, concentração de produtos, experiência do cliente e custos logísticos. A integração dessas métricas permitiu uma visão estratégica e orientada por dados, apoiando a tomada de decisão de forma estruturada e fundamentada.
 
-## 📄 Relatório Completo
-
-O relatório detalhado da análise pode ser acessado abaixo:
 
