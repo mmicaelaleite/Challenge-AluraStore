@@ -32,9 +32,9 @@ Avaliar comparativamente o desempenho das quatro lojas utilizando métricas fina
 
 ## 📊 Análises Realizadas
 
-- Faturamento total por loja  
+- Faturamento total por loja (faturamento_por_loja) 
 - Vendas por categoria  
-- Produtos mais e menos vendidos  
+- Produtos mais e menos vendidos (produtos_mais_vendidos) (produtos_menos_vendidos)  
 - Média de avaliação por loja  
 - Frete médio por loja  
 
